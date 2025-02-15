@@ -32,6 +32,7 @@ kubernetes
 
 - El código utilizado se encuentra en este archivo
   `umg-ia/1-agente-inteligente/chatgpt/agente.py`
+- [chatgpt/agente.py](https://github.com/linkarzu/umg-ia/blob/master/1-agente-inteligente/chatgpt/agente.py)
 - Esta es la matriz utilizada, notar que estamos configurando el punto de inicio
   y la meta (punto final)
 - **Cada movimiento tiene un “costo” de 1 (un salto).**
@@ -82,6 +83,10 @@ Ruta más corta encontrada:
 python -m venv .venv
 source .venv/bin/activate
 ```
+
+- El código utilizado se encuentra en esta ruta:
+  `umg-ia/1-agente-inteligente/deepseek/agente.py`
+- [deepseek/agente.py](https://github.com/linkarzu/umg-ia/blob/master/1-agente-inteligente/deepseek/agente.py)
 
 - Notar la matriz que definimos como laberinto y el punto de inicio y final
 
